@@ -1,6 +1,6 @@
 # Steps to attach `lambda function` with `s3-bucket`
 
-1. Sign-in to aws, using credentials on [click here](https://318737483148.signin.aws.amazon.com/console).
+1. Sign-in to aws, using credentials on [click here](https://console.aws.amazon.com/).
 
 1. Click on `Services` from navbar.
 
