@@ -113,7 +113,6 @@
    * Then click on `Add trigger`
         * Inside `Trigger configuration`, select `s3` 
         * In `Bucket` section, select bucket from which you want to trigger this function.
-        * In `Prefix - optional`, write `hocal/`
         * check `I acknowledge that using ...` 
         * Click on `Add` button
 
